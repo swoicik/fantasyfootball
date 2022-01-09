@@ -14,6 +14,17 @@ Dynasty Pot
 
 ## In Season
 - Waivers Run
+
+| Day       | FA    | Waivers | Locked  |
+| ---       | :---: | :---:   | :---:   |
+| Monday    |       |         | X       |
+| Tuesday   |       |         | X       |
+| Wednesday |       | X       |         |
+| Thursday  |       | X       |         |
+| Friday    |       | X       |         |
+| Saturday  | X     |         |         |
+| Sunday    | X     |         |         |
+
 - Playoff Schedule
 - Constilation Bracket 
 
