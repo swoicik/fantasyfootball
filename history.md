@@ -2,8 +2,8 @@
 layout: post
 title: League History
 ---
-| Year  | 1st Place   | 2nd Place   | 3rd Place   |
-| ---   | ---         | ---         | ---         |
-| 2019  |             |             |             |
-| 2020  |             |             |             |
-| 2021  |             |             |             |
+| Year  | 1st Place   | 2nd Place   | 3rd Place     |
+| ---   | ---         | ---         | ---           |
+| 2019  |             |             |               |
+| 2020  | phileruper  | stenan1029  |               |
+| 2021  | phileruper  | swoicik     | RiverboatDave |
