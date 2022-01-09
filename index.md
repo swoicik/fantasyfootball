@@ -41,3 +41,5 @@ The draft order is determined by the team's finish in the playoff and consilatio
 | 10    | 3rd                     |                             |
 | 11    | 2nd                     |                             |
 | 12    | 1st                     |                             |
+
+The draft will happen after the NFL draft has concluded and only include rookie draft picks.
