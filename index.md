@@ -89,3 +89,13 @@ If there is enough interest, the rule will go to a vote. Only the commissioner c
 
 Voting is decided my majority. 8 out of the 12 members are needed for any rule change to pass.
 
+### 2022
+- The league voted 8-4 in favor of expanding the Taxi Squad from 4 players to 6 players.
+- The league voted 12-0 in favor of expanding the eligibity of Taxi Squad players from 2 year to 3 years. 
+
+### 2021
+- The league voted 8-3 in favor of raising the yearly buy in
+- The league voted 8-4 in favor of making the yearly buy in $200.00
+- The league voted 10-0 in favor of making pick trading allowed for up to 3 years in advances. If you trade a pick from a future year, the buy in for that year is owed before the trade is processed. 
+
+
