@@ -83,9 +83,9 @@ The draft order is determined by the team's finish in the playoff and consilatio
 
 
 ## Rule Changes and Voting
-Nothing is perfect and rules will change. Any suggestion or idea for a rule change can be brought up in the group chat or communicated with the commisioner.
+Nothing is perfect and rules will change. Any suggestion or idea for a rule change can be brought up in the group chat or communicated with the commissioner.
 
 If there is enough interest, the rule will go to a vote. Only the commissioner can hold a vote for a rule change.
 
-Voting is decided my majority. 8 our of the 12 members are needed for any rule change to pass.
+Voting is decided my majority. 8 out of the 12 members are needed for any rule change to pass.
 
