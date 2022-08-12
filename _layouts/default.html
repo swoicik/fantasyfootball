@@ -16,9 +16,23 @@
       </div>
     </nav>
 
+<<<<<<< HEAD
     <main>
       {{ content }}
     </main>
+=======
+    {% include menu.html %}
+    
+    {{ content }}
+
+    {% unless site.hide_credits %}
+      <aside class="site-credits">
+        <p>
+          <small>Powered by <a href="http://jekyllrb.com">Jekyll</a></small>
+        </p>
+      </aside>
+    {% endunless %}
+>>>>>>> main
 
     <footer>
       <span>
