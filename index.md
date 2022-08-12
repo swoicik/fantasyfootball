@@ -59,6 +59,11 @@ Each team has a roster of 10 Starters, 9 Bench, 3 IR, and 6 Taxi Squad. For a te
 Each week, every team has a chance to earn 2 wins for their team. 
 
 ### Playoff Schedule 
+
+The playoffs will also begin 4 weeks prior to the end of the NFL season. The championship game is played the second to last week of the NFL season. For example during an 18 week NFL regular season, the leagues playoff games will begin week 15 and the championship game will be week 17. 
+
+The top 6 teams, determmined by win/loss record, will make the playoffs. The 6 teams with the worst record will be entered into a consilation playoff bracket. 
+
 ### Consilation Bracket
 
 ## Draft and Draft Order
