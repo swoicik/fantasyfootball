@@ -2,27 +2,51 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
-
-  {% if page.title != "" %}
-    <h1 class="post-title divided p-name" itemprop="name headline">
-      {{ page.title }}
-    </h1>
-  {% endif %}
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  <div class="post-meta">
+<div class="post">
+  <div class="post-info">
+<!--
+    <span>Written by</span>
     {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
+        {{ page.author }}
+    {% else %}
+        {{ site.author.name }}
     {% endif %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+
+    {% if page.date %}
+      <br>
+-->
+      <span>Written on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus-comments.html %}
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+
+  {{ content }}
+
+</div>
+
+<!--
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+-->
+<div class="post-line"></div>
+<div class="newsletter">
+  <h2>Newsletter</h2>
+<p>Add you newsletter embed form here</p>
+</div>
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-</article>
+  <a href="#" class="top">Top</a>
+</div>

@@ -1,8 +1,8 @@
 # Site settings
-title:          The Dynasty Football League
-description:    "A website for the best fanstasy football league around"
+title:          SIMPLE
+description:    "simple jekyll theme"
 baseurl:        "/"
-url:            "https://swoicik.com/fantasyfootball"
+url:            "https://swoicik.github.io/simple-jekyll-theme"
 
 # Author
 author:
