@@ -10,29 +10,15 @@
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
         <ul>
-          <li><a href="{{ '/' | prepend: site.baseurl }}">Rule Book</a></li>
-          <li><a href="{{ '/history' | prepend: site.baseurl }}">History</a></li>
+          <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ '/archive' | prepend: site.baseurl }}">Archive</a></li>
         </ul>
       </div>
     </nav>
 
-<<<<<<< HEAD
     <main>
       {{ content }}
     </main>
-=======
-    {% include menu.html %}
-    
-    {{ content }}
-
-    {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p>
-          <small>Powered by <a href="http://jekyllrb.com">Jekyll</a></small>
-        </p>
-      </aside>
-    {% endunless %}
->>>>>>> main
 
     <footer>
       <span>
