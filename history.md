@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: League History
 ---
 | Year  | 1st Place   | 2nd Place   | 3rd Place     |
