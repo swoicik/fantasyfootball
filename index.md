@@ -49,12 +49,17 @@ Each team has a roster of 10 Starters, 9 Bench, 3 IR, and 6 Taxi Squad. For a te
 | Saturday  | X     |         |         |
 | Sunday    | X     |         |         |
 
-- Playoff Schedule
-- Constilation Bracket 
-
 ### Taxi Squad
 
 ### Trades
+
+## In Season Play
+
+### Win/Loss
+Each week, every team has a chance to earn 2 wins for their team. 
+
+### Playoff Schedule 
+### Consilation Bracket
 
 ## Draft and Draft Order
 The draft will be scheduled after the NFL draft has concluded and only include rookie draft picks.
