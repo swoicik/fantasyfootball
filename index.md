@@ -17,8 +17,29 @@ Yearly Payout
 
 Dynasty Pot
 
-## In Season
-- Waivers Run
+$10 from every buying is put into a Dynasty Pot. This is paid out when a team wins two years in a row. If a team wins two years in a row the pot resets.
+
+For example if a team win two years in a row they are paid the Dynasty Pot in addition to the 1st Place payout. The team will then have to win two seasons in a row again to win the Dynasty Pot. Winning a third year in a row will not win the Dynasty Pot again.
+
+## League Roll Over
+The league will be rolled over for the next season after the Super Bowl and all teams have paid league buy in. Once the league has been rolled over for the new season, all waviers will be on the off season schedule. No rookies are able to be added to the team until after the Rookie Draft. 
+
+## Rosters
+Each team has a roster of 10 Starters, 9 Bench, 3 IR, and 6 Taxi Squad. For a team to participate in off-season transactions (trades and waivers) they must have a roster contructed within these limits. Before the first NFL game of the season, all teams must be in compliance with the roster contraints. 
+
+### Off Season Waivers Schedule
+
+| Day       | FA    | Waivers | Locked  |
+| ---       | :---: | :---:   | :---:   |
+| Monday    |       | X       |         |
+| Tuesday   |       |         | X       |
+| Wednesday |       |         | X       |
+| Thursday  |       |         | X       |
+| Friday    |       |         | X       |
+| Saturday  |       | X       |         |
+| Sunday    |       | X       |         |
+
+### In Season Waivers Schedule
 
 | Day       | FA    | Waivers | Locked  |
 | ---       | :---: | :---:   | :---:   |
@@ -33,24 +54,13 @@ Dynasty Pot
 - Playoff Schedule
 - Constilation Bracket 
 
-## Off Season
-- Waivers Run
+### Taxi Squad
 
-| Day       | FA    | Waivers | Locked  |
-| ---       | :---: | :---:   | :---:   |
-| Monday    |       | X       |         |
-| Tuesday   |       |         | X       |
-| Wednesday |       |         | X       |
-| Thursday  |       |         | X       |
-| Friday    |       |         | X       |
-| Saturday  |       | X       |         |
-| Sunday    |       | X       |         |
-
-## Trades
-
-## Taxi Squad
+### Trades
 
 ## Draft and Draft Order
+The draft will be scheduled after the NFL draft has concluded and only include rookie draft picks.
+
 The draft order is determined by the team's finish in the playoff and consilation bracket finishes the previous year. 
 
 | Pick  | Playoff Bracket Finish  | Consilation Bracket Finish  |
@@ -68,5 +78,11 @@ The draft order is determined by the team's finish in the playoff and consilatio
 | 11    | 2nd                     |                             |
 | 12    | 1st                     |                             |
 
-The draft will happen after the NFL draft has concluded and only include rookie draft picks.
+
+## Rule Changes and Voting
+Nothing is perfect and rules will change. Any suggestion or idea for a rule change can be brought up in the group chat or communicated with the commisioner.
+
+If there is enough interest, the rule will go to a vote. Only the commissioner can hold a vote for a rule change.
+
+Voting is decided my majority. 8 our of the 12 members are needed for any rule change to pass.
 
