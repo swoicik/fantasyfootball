@@ -8,9 +8,12 @@ permalink: /
 Yearly Buy In: $200
 
 Yearly Payout 
-- 1st Place - 
-- 2nd Place - 
-- 3rd Place - 
+
+| Place       | Amount    |
+| ---         | ---       |
+| 1st Place   | $1,480.00 |
+| 2nd Place   | $600.00   |
+| 3rd Place   | $200.00   |
 
 Dynasty Pot
 
