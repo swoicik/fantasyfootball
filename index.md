@@ -49,6 +49,8 @@ Each team has a roster of 10 Starters, 9 Bench, 3 IR, and 6 Taxi Squad. For a te
 | Saturday  | X     |         |         |
 | Sunday    | X     |         |         |
 
+### Free Agent Aquisition Budget (FAAB)
+
 ### Taxi Squad
 
 ### Trades
