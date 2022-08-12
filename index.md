@@ -5,21 +5,19 @@ permalink: /
 ---
 
 ## Money
-Yearly Buy In: $200
+The yearly cost of the league is $200. This amount is due at the conclution of the previous season. For example the 22-23 payment is due at the conclusion of the 21-22 season. The next season will not start until all teams have paid. The money collected will be paid out with the following schedule;
 
-Yearly Payout 
-
-| Place       | Amount    |
+| Place       | Payout    |
 | ---         | ---       |
 | 1st Place   | $1,480.00 |
 | 2nd Place   | $600.00   |
 | 3rd Place   | $200.00   |
 
-Dynasty Pot
+### Dynasty Pot
 
-$10 from every buying is put into a Dynasty Pot. This is paid out when a team wins two years in a row. If a team wins two years in a row the pot resets.
+$10 from every payment is put into a Dynasty Pot. This is paid out when a team wins two years in a row. If a team wins two years in a row the pot resets.
 
-For example if a team win two years in a row they are paid the Dynasty Pot in addition to the 1st Place payout. The team will then have to win two seasons in a row again to win the Dynasty Pot. Winning a third year in a row will not win the Dynasty Pot again.
+For example if a team win two years in a row, they are paid the Dynasty Pot in addition to the 1st Place payout. The team will then have to win two seasons in a row again to win the Dynasty Pot. Winning a third year in a row will not win the Dynasty Pot again.
 
 ## League Roll Over
 The league will be rolled over for the next season after the Super Bowl and all teams have paid league buy in. Once the league has been rolled over for the new season, all waviers will be on the off season schedule. No rookies are able to be added to the team until after the Rookie Draft. 
