@@ -52,6 +52,9 @@ Each team has a roster of 10 Starters, 9 Bench, 3 IR, and 6 Taxi Squad. For a te
 ### Taxi Squad
 
 ### Trades
+Trading between teams is allowed during the season and off-season. Trading is suspended from week 12 to the end of the season. Every trade has a 24 hour review period after being accepted by each team involved in the trade. This 24 hour period can be waived if each team involved in the trade messages the commissioner to push the trade through. The 24 hours review is only to prevent mistakes, not stop trades from happening. 
+
+Trading is allowed with rostered players, draft picks (up to three years in advance), and FAAB. 
 
 ## In Season Play
 
