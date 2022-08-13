@@ -12,6 +12,7 @@ The yearly cost of the league is $200. This amount is due at the conclusion of t
 | 1st Place   | $1,480.00 |
 | 2nd Place   | $600.00   |
 | 3rd Place   | $200.00   |
+| Dynasty Pot | $120.00   |
 
 ### Dynasty Pot
 
