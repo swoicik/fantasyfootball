@@ -113,6 +113,9 @@ If there is enough interest, the rule will go to a vote. Only the commissioner c
 
 Voting is decided my majority. 8 out of the 12 members are needed for any rule change to pass.
 
+### 2023 
+- The league voted 10-1 in favor of changing the format of the consolation bracket. 
+  
 ### 2022
 - The league voted 8-4 in favor of expanding the Taxi Squad from 4 players to 6 players.
 - The league voted 12-0 in favor of expanding the eligibility of Taxi Squad players from 2 year to 3 years.
