@@ -20,6 +20,11 @@ $10 from every payment is put into a Dynasty Pot. This is paid out when a team w
 
 For example if a team win two years in a row, they are paid the Dynasty Pot in addition to the 1st Place payout. The team will then have to win two seasons in a row again to win the Dynasty Pot. Winning a third year in a row will not win the Dynasty Pot again.
 
+### Trading Futures
+This league allows for trading future draft picks. To maintain the integrity of the league, if you trade a future draft pick, the buy in for the pick traded is due at the time of the trade. This is to prevent someone from selling the future of their team and leaving the league. 
+
+For example, if we are in the 2023 season and you trade one of your draft picks in 2024 and 2025, you now owe the buy in of $600 ($200 for 2023, $200 for 2024, $200 for 2025). 
+
 ## League Roll Over
 The league will be rolled over for the next season after the Super Bowl and all teams have paid league buy in. Once the league has been rolled over for the new season, all waivers will be on the off season schedule. No rookies are able to be added to the team until after the Rookie Draft.
 
