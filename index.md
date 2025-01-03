@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## Money
-The yearly cost of the league is $200. This amount is due at the conclusion of the previous season. For example the 22-23 payment is due at the conclusion of the 21-22 season. The next season will not start until all teams have paid. The money collected will be paid out with the following schedule;
+The yearly cost of the league is $200. This amount is due at the conclusion of the previous season. Any team not paid by Super Bowl Sunday of the current season will be considered abondoned and further action (including team replaceemnt) may be taken. For example the 2023 payment is due at the conclusion of the 2022 season. The next season will not start until all teams have paid. The money collected will be paid out with the following schedule;
 
 | Place       | Payout    |
 | ---         | ---       |
@@ -117,6 +117,9 @@ Nothing is perfect and rules will change. Any suggestion or idea for a rule chan
 If there is enough interest, the rule will go to a vote. Only the commissioner can hold a vote for a rule change.
 
 Voting is decided my majority. 8 out of the 12 members are needed for any rule change to pass.
+
+### 2025 
+- Commisioner rule change - created a specific deadline of Super Bowl Sunday for Buy Ins to be paid. 
 
 ### 2023 
 - The league voted 10-1 in favor of changing the format of the consolation bracket. 
