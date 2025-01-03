@@ -11,4 +11,5 @@ permalink: /history/
 | 2021  | phileruper  | swoicik       | riverboatdave |
 | 2022  | ewoicik     | cmuzzy        | phileruper    |
 | 2023  | phileruper  | riverboatdave | yunghayes     |
+| 2024  | bpetkis     | ewoicik       | stenan1029    |
 
