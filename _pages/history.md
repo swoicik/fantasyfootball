@@ -16,6 +16,7 @@ permalink: /history/
 ## Record Books
 
 ### Weekly High Score 
+
 | Place | Team        | Year | Score  |
 | ---   | ---         | ---  | ---    |
 | 1     | caitlinj187 | 2019 | 232.32 |
@@ -25,6 +26,7 @@ permalink: /history/
 | 5     | ewoicik     | 2022 | 209.06 |
 
 ### Season Win Percentage 
+
 | Place | Team       | Year | Percentage |
 | ---   | ---        | ---  | ---        |
 | 1     | phileruper | 2023 | 89%        |
@@ -34,6 +36,7 @@ permalink: /history/
 | 5     | bpetkis    | 2024 | 78%        | 
 
 ### Season Total Points
+
 | Place | Team          | Year | Points  |
 | ---   | ---           | ---  | ---     |
 | 1     | stenan1029    | 2024 | 2178.32 |
