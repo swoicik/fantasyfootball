@@ -121,6 +121,9 @@ Voting is decided my majority. 8 out of the 12 members are needed for any rule c
 ### 2025 
 - Commisioner rule change - created a specific deadline of Super Bowl Sunday for Buy Ins to be paid. 
 
+### 2024
+- Fumble Lost scoring changed from -2 to -1 
+
 ### 2023 
 - The league voted 10-1 in favor of changing the format of the consolation bracket. 
   
