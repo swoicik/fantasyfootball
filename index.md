@@ -118,6 +118,12 @@ If there is enough interest, the rule will go to a vote. Only the commissioner c
 
 Voting is decided my majority. 8 out of the 12 members are needed for any rule change to pass.
 
+### 2026
+- Voted against adding Superflex position to roster
+- Voted against creating division in league
+- Voted for TE premium scoring in 2027 (2 points per reception)
+- Voted to removed defenses from roster in 2029
+
 ### 2025 
 - Commisioner rule change - created a specific deadline of Super Bowl Sunday for Buy Ins to be paid. 
 
